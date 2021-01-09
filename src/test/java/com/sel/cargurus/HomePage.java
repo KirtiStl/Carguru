@@ -50,7 +50,7 @@ public class HomePage {
         
         
        driver.findElement(By.partialLinkText("New Cars")).click();
-        return  new Test4Page(driver);   
+        return  new Test4Page(driver);    
 }
 }
 
